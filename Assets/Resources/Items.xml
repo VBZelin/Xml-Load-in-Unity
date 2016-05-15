@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ItemCollection>
+  <Items>
+    <!--Gun-->
+    <Item name ="Gun">
+      <damge>50</damge>
+      <durability>100</durability>
+    </Item>
+    <!--Knife-->
+    <Item name ="Knife">
+      <damge>60</damge>
+      <durability>90</durability>
+    </Item>
+    <!--Hammer-->
+    <Item name ="Hammer">
+      <damge>70</damge>
+      <durability>80</durability>
+    </Item>
+  </Items>
+</ItemCollection>
